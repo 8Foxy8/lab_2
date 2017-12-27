@@ -1,0 +1,20 @@
+I:\БКиТ\lab2\lab2\lab2\bin\Debug\lab2.exe.config
+I:\БКиТ\lab2\lab2\lab2\bin\Debug\lab2.exe
+I:\БКиТ\lab2\lab2\lab2\bin\Debug\lab2.pdb
+I:\БКиТ\lab2\lab2\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+I:\БКиТ\lab2\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+I:\БКиТ\lab2\lab2\lab2\obj\Debug\lab2.exe
+I:\БКиТ\lab2\lab2\lab2\obj\Debug\lab2.pdb
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab2\lab2\lab2\bin\Debug\lab2.exe.config
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab2\lab2\lab2\bin\Debug\lab2.exe
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab2\lab2\lab2\bin\Debug\lab2.pdb
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab2\lab2\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab2\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab2\lab2\lab2\obj\Debug\lab2.exe
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab2\lab2\lab2\obj\Debug\lab2.pdb
+E:\БКиТ\lab2\lab2\lab2\bin\Debug\lab2.exe.config
+E:\БКиТ\lab2\lab2\lab2\obj\Debug\lab2.exe
+E:\БКиТ\lab2\lab2\lab2\obj\Debug\lab2.pdb
+E:\БКиТ\lab2\lab2\lab2\bin\Debug\lab2.exe
+E:\БКиТ\lab2\lab2\lab2\bin\Debug\lab2.pdb
+E:\БКиТ\lab2\lab2\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
